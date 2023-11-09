@@ -31,7 +31,7 @@ https://muzammil35.github.io/Self-driving-car/
 ##
 
 
-## Screenshots
+## Screenshot
 
 
 ![car](https://github.com/muzammil35/Self-driving-car/assets/145228299/0e745c0d-0958-4f71-9fa2-75e4fda07a41)
